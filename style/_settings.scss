@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+body{
+  .app {
+    width: 100vw;
+    height: 100vh;
+    background: url("../images/bg.png") center/cover;
+    #score {
+      font-family: Impact,  'Arial Narrow Bold', sans-serif;
+      text-align: center;
+      font-size: 5rem;
+    } 
+  }
+  
+}
